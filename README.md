@@ -1,7 +1,7 @@
-# E aí, eu sou [Seu Nome]! 👨‍💻  
+# E aí, eu sou Felipe! 👨‍💻  
 
-**Desenvolvedor | [Sua Especialidade]**  
-📍 **Localização** | ✉ **Contato: [seu@email.com]**  
+**Desenvolvedor | FullStack**  
+📍 **Curitiba, PR, Brazil** | ✉ **Contato: felippemagalhaes18@gmail.com**  
 
 ### 🔥 Sobre Mim  
 - 💼 **Atualmente:** Trabalhando em **[Projeto/Empresa]**  
@@ -22,15 +22,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)  
 
 ### 📈 GitHub Stats  
-[![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=dracula)](https://github.com/SEUUSER)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=dracula)](https://github.com/SEUUSER)  
+[![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=dracula)](https://github.com/felipemagalhaes18)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=dracula)](https://github.com/felipemagalhaes18)  
 
 ### 🏆 Projetos em Destaque  
 - **[Projeto 1](link)** → Descrição breve (ex: API escalável em Node.js)  
 - **[Projeto 2](link)** → Descrição breve (ex: Automatização com Python)  
 
 ### 📞 Contato  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/seuperfil)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/seuperfil)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/felipe-magalhaes-dev)  
 
 **Vamos bater um papo sobre tecnologia!** 💬  
