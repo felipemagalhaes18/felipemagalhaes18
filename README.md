@@ -32,7 +32,7 @@
 
 ### 📞 Contato & Redes  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/felipemagalhaes18)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail)](mailto:seu-email@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/felipe-magalhaes-dev)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail)](mailto:felippemagalhaes18@gmail.com)
 
 **Vamos conversar sobre dados, tecnologia ou oportunidades!** 🤝  
