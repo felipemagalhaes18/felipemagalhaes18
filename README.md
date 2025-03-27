@@ -1,35 +1,38 @@
-# E aí, eu sou Felipe! 👨‍💻  
+# Felipe Magalhães 🧑‍💻  
 
-**Desenvolvedor | FullStack**  
-📍 **Curitiba, PR, Brazil** | ✉ **Contato: felippemagalhaes18@gmail.com**  
+**Desenvolvedor FullStack Júnior | JavaScript | Node.js | Express.js | React.js | MongoDB | **  
+📍 Curitiba, PR | ✉ **Contato: felippemagalhaes18@gmail.com**  
 
-### 🔥 Sobre Mim  
-- 💼 **Atualmente:** Trabalhando em **[Projeto/Empresa]**  
-- 📚 **Estudando:** [Tecnologia ou Habilidade]  
-- 🎯 **Foco:** [Ex: Back-end, Cloud, IA, DevOps]  
-- 🏆 **Metas:** [Ex: Virar Sênior, Criar um Projeto Open-Source]  
-- ⚡ **Curiosidade:** [Ex: Jogo xadrez nas horas vagas / Faço musculação / Amante de café]  
+### 🎯 Sobre Mim  
+- 🏦 **Atualmente:** a procura de emprego na área de desenvolvimento **FullStack**  
+- 📊 **Foco:** Transformar dados em insights acionáveis  
+- 📚 **Estudando:** React.js 
+- ⚡ **Curiosidade:** Apaixonado por tecnologia.
 
 ### 🛠️ Tech Stack  
-**Linguagens & Ferramentas:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-*(Adicione outras tecnologias que você usa)*  
 
-**DevOps & Cloud:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)  
+**📌 Linguagens & Ferramentas:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**🛢️ Bancos de Dados:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### 📈 GitHub Stats  
-[![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=dracula)](https://github.com/felipemagalhaes18)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=dracula)](https://github.com/felipemagalhaes18)  
 
-### 🏆 Projetos em Destaque  
-- **[Projeto 1](link)** → Descrição breve (ex: API escalável em Node.js)  
-- **[Projeto 2](link)** → Descrição breve (ex: Automatização com Python)  
+[![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemagalhaes18&show_icons=true&theme=dark)](https://github.com/felipemagalhaes18)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemagalhaes18&layout=compact&theme=dark)](https://github.com/felipemagalhaes18)  
 
-### 📞 Contato  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/felipe-magalhaes-dev)  
+### 🏆 Projetos Destacados  
 
-**Vamos bater um papo sobre tecnologia!** 💬  
+- **[Cadastro de Usuários](https://github.com/felipemagalhaes18/user-registration-panel)** →  Painel de Cadastro de Usuário para Web
+
+### 📞 Contato & Redes  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/felipemagalhaes18)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail)](mailto:seu-email@gmail.com)  
+
+**Vamos conversar sobre dados, tecnologia ou oportunidades!** 🤝  
