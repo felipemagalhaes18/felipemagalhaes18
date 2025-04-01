@@ -29,6 +29,7 @@
 ### 🏆 Projetos Destacados  
 
 - **[Cadastro de Usuários](https://github.com/felipemagalhaes18/user-registration-panel)** →  Painel de Cadastro de Usuário para Web
+- **[API Cadastro de Usuários](https://github.com/felipemagalhaes18/user-registration-api)** →  API de Cadastro de Usuários
 
 ### 📞 Contato & Redes  
 
