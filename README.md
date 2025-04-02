@@ -1,6 +1,6 @@
 # Felipe Magalhães 🧑‍💻  
 
-**Desenvolvedor FullStack Júnior | JavaScript | Node.js | Express.js | React.js | MongoDB | **  
+**Desenvolvedor FullStack Júnior | JavaScript | Node.js | Express.js | React.js | MongoDB | Tailwind | **  
 📍 Curitiba, PR | ✉ **Contato: felippemagalhaes18@gmail.com**  
 
 ### 🎯 Sobre Mim  
@@ -16,6 +16,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **🛢️ Bancos de Dados:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
